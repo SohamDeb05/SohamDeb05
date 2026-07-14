@@ -27,7 +27,7 @@
               #*+=###**++++++*=+*#                 - Contact -----------------------------------------------
                #*+*+==*#**==+*+*#                  . Email: ................... sohaam.deb@gmail.com
                 #%%#++=-==++#%%##:                 . GitHub: .................. github.com/SohamDeb05
-              :#++#%%%%%%%%%%#=-+%=                . LinkedIn: ................ linkedin.com/in/Soham-Deb
+              :#++#%%%%%%%%%%#=-+%=                . LinkedIn: ...... linkedin.com/in/soham-deb-425794270
           :-.==%+===+*#%###+==--=#+:::-            .
       .:...::::++=========------=#+.:. .:...       - GitHub Stats ------------------------------------------
   .........:::--=====-=---=-------:..  .........   . Repos: ................... see live cards below
@@ -113,7 +113,7 @@ fun_fact: I debug better after a workout 💪
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Soham-Deb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-deb-425794270)
 [![GitHub](https://img.shields.io/badge/GitHub-SohamDeb05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohamDeb05)
 
 <br/>
