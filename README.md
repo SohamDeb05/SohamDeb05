@@ -9,30 +9,30 @@
 ---
 
 ```
-                               soham@dev -----------------------------------------------
-                               . OS: ...................... Windows 11
-      .*%%%%%%%%##:            . Role: .................... Full Stack Developer
-   .=%%%%@%@%%%%%%%%:          . Education: ............... B.Tech Computer Science
-  :%%%@@%%%%%%%%%%%%%#-        . IDE: ..................... VS Code
- %@%@@@%#*###+==*#%%%%%#       .
-#@@%@*=--:::-::::--=*%#%%.     . Languages.Programming: .. JavaScript, Java, Python
-%%@@+=---:::::::::--=*%%@%     . Languages.Frontend: ..... React, HTML, CSS
-%@%*=---:::::::::::--=%@@#     . Languages.Backend: ...... Node.js, Express
-%%*+++++++=-::-++====+=%%*     . Languages.Database: ..... SQL, MongoDB
-=%*++*#*#**+==++*#=**++#*.     .
--%==-=---===-:=-------==+      . Hobbies.Software: ....... Web Dev, Open Source
- ++=---:--+-::----::---=-      . Hobbies.Fitness: ........ Gym & Athletics
-  #+=-::--=#==*=--:::-=#       . Hobbies.Learning: ....... System Design, DSA
-  **+=--===+=-+====--+*:       .
-   #*+=###**++++++*=+*#        - Contact -----------------------------------------------
-    #*+*+==*#**==+*+*#         . Email: ................... sohaam.deb@gmail.com
-     #%%#++=-==++#%%##:        . GitHub: .................. github.com/SohamDeb05
-   :#++#%%%%%%%%%%#=-+%=       . LinkedIn: ................ linkedin.com/in/Soham-Deb
-:-.==%+===+*#%###+==--=#+:::   .
-.:...::::++=========------=#   - GitHub Stats ------------------------------------------
-.........:::--=====-=---=---   . Repos: ................... see live cards below
-..:..:.... :.::: .-:------::   . Commits: ................. 143 contributions total
-.:-:.::::- -.:  . ..::::::::   . Stars: ................... growing every day :)
+                                                   soham@dev -----------------------------------------------
+                                                   . OS: ...................... Windows 11
+                 .*%%%%%%%%##:                     . Role: .................... Full Stack Developer
+              .=%%%%@%@%%%%%%%%:                   . Education: ............... B.Tech Computer Science
+             :%%%@@%%%%%%%%%%%%%#-                 . IDE: ..................... VS Code
+            %@%@@@%#*###+==*#%%%%%#                .
+           #@@%@*=--:::-::::--=*%#%%.              . Languages.Programming: .. JavaScript, Java, Python
+           %%@@+=---:::::::::--=*%%@%              . Languages.Frontend: ..... React, HTML, CSS
+           %@%*=---:::::::::::--=%@@#              . Languages.Backend: ...... Node.js, Express
+           %%*+++++++=-::-++====+=%%*              . Languages.Database: ..... SQL, MongoDB
+           =%*++*#*#**+==++*#=**++#*.              .
+           -%==-=---===-:=-------==+               . Hobbies.Software: ....... Web Dev, Open Source
+            ++=---:--+-::----::---=-               . Hobbies.Fitness: ........ Gym & Athletics
+             #+=-::--=#==*=--:::-=#                . Hobbies.Learning: ....... System Design, DSA
+             **+=--===+=-+====--+*:                .
+              #*+=###**++++++*=+*#                 - Contact -----------------------------------------------
+               #*+*+==*#**==+*+*#                  . Email: ................... sohaam.deb@gmail.com
+                #%%#++=-==++#%%##:                 . GitHub: .................. github.com/SohamDeb05
+              :#++#%%%%%%%%%%#=-+%=                . LinkedIn: ................ linkedin.com/in/Soham-Deb
+          :-.==%+===+*#%###+==--=#+:::-            .
+      .:...::::++=========------=#+.:. .:...       - GitHub Stats ------------------------------------------
+  .........:::--=====-=---=-------:..  .........   . Repos: ................... see live cards below
+..:..:.... :.::: .-:------:::::: ... ...... ....   . Commits: ................. 143 contributions total
+.:-:.::::- -.:  . ..:::::::::::   .  . .. ..:..    . Stars: ................... growing every day :)
 ```
 
 ---
