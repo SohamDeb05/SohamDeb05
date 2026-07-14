@@ -116,12 +116,7 @@ fun_fact: I debug better after a workout 💪
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-deb-425794270)
 [![GitHub](https://img.shields.io/badge/GitHub-SohamDeb05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohamDeb05)
 
-<br/>
 
-### 💬 Profile Views
-![Visitor Badge](https://komarev.com/ghpvc/?username=SohamDeb05&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
-
-<br/>
 
 ---
 
